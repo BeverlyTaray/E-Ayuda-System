@@ -26,3 +26,5 @@ This system helps manage and monitor financial assistance distribution in barang
 - Renan Alburo – Developer
 - Lauren Galvan- Database Designer
 - Jessica Lucanas- Documentation
+
+## Added initial feature setup
